@@ -1,8 +1,8 @@
-package service;
+package org.harish.customer.service;
 
 import java.util.UUID;
 
-import dto.CustomerDTO;
+import org.harish.customer.dto.CustomerDTO;
 
 public interface CustomerService {
 

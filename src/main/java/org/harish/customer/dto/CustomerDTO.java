@@ -1,4 +1,4 @@
-package dto;
+package org.harish.customer.dto;
 
 import java.util.UUID;
 
